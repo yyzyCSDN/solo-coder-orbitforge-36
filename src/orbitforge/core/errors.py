@@ -15,3 +15,6 @@ class NoSolutionError(OrbitForgeError):
 
 class TimelineError(OrbitForgeError):
     pass
+
+class ReproducibilityError(OrbitForgeError):
+    pass
